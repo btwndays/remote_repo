@@ -3,3 +3,4 @@ created remote_branch_01
 changed to wincred
 changed to ssh
 changed to https
+changed to ssh
